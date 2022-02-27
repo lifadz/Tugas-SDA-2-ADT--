@@ -1,4 +1,4 @@
-# Tugas-SDA-1-Pointer-
+# Tugas-SDA-2-Pointer-
 Nama  :Fadzli Muhammad
 
 NPM   :G1A021032
